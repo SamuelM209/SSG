@@ -1,0 +1,6 @@
+C:\Users\Samu-pc\SSG\SggApp.BLL\obj\Debug\net9.0\SggApp.BLL.csproj.AssemblyReference.cache
+C:\Users\Samu-pc\SSG\SggApp.BLL\obj\Debug\net9.0\SggApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samu-pc\SSG\SggApp.BLL\obj\Debug\net9.0\SggApp.BLL.AssemblyInfoInputs.cache
+C:\Users\Samu-pc\SSG\SggApp.BLL\obj\Debug\net9.0\SggApp.BLL.AssemblyInfo.cs
+C:\Users\Samu-pc\SSG\SggApp.BLL\obj\Debug\net9.0\SggApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Samu-pc\SSG\SggApp.BLL\obj\Debug\net9.0\SggApp.BLL.sourcelink.json
